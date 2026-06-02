@@ -10,7 +10,7 @@
   transition: transform 0.3s ease;
 }
 
-.card:hover{
+.card:hover {
   background-color: rgb(234, 240, 255);
   transform: scale(1.05);
   text-decoration: none;
@@ -19,7 +19,7 @@
 
 
 .cardImg {
-  max-width:100% ;
+  max-width: 100%;
   height: auto;
   object-fit: cover;
   border-radius: 4px;
@@ -34,38 +34,33 @@
   flex-direction: column;
   justify-content: space-between;
   text-wrap: wrap;
-font-family: var(--main-font);
+  font-family: var(--main-font);
 }
 
 .itemName {
 
   font-size: 3rem;
-  
+
   font-weight: 400;
 
 }
-.on-sale{
+
+.on-sale {
   padding-top: 1rem;
   color: red;
-    /* font-family: var(--main-font); */
-    font-size: 1.5rem
+  font-size: 1.5rem
 }
 
-.before-price{
-text-decoration: line-through;
-color: rgb(83, 82, 82);
-padding-top: 1rem;
+.before-price {
+  text-decoration: line-through;
+  color: rgb(83, 82, 82);
+  padding-top: 1rem;
 }
 
-.itemPrice-sale{
-
-}
 
 .itemPrice {
   font-size: 1rem;
-margin-block: auto 0;
-
-
+  margin-block: auto 0;
 }
 
 .colorCircle {
@@ -74,7 +69,6 @@ margin-block: auto 0;
   height: 20px;
   border-radius: 50px;
   margin-top: 1.2em;
-
 }
 
 
