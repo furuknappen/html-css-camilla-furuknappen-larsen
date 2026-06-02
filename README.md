@@ -7,7 +7,7 @@ In this project we used our newly learned HTML and CSS skills make the design co
 <br>
 
 ## Features: 
-Fully responsive design
+Fully responsive design <br>
 True to Figma design
 
 <br>
