@@ -76,7 +76,9 @@
 /*............ Desktops ................*/
 @media (min-width: 1025px) {
   .card {
-    max-width: 300px;
+    /* max-width: 300px; */
+    width: 18rem
+
   }
 
   .itemName {
